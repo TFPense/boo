@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+header{
+    background-color: bisque;
+}
+h1{
+    color: red;
+}
+.hw{
+    color: white;
+}
+.hsize{
+    font-size: 70px;
+}
+
+.firstdiv{
+
+}
+
+.firstdiv:hover{
+    background-color: aqua;
+    height: 200px;
+    color: red;
+}
+
+.seconddiv{
+    background-color: white;
+}

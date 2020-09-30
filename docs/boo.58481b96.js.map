@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI,eACZD,QAAQC,IAAI","file":"boo.58481b96.js","sourceRoot":"..","sourcesContent":["console.log(\"hello world\");\nconsole.log(\" moin \");\n"]}
